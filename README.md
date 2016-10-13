@@ -1,8 +1,10 @@
-# VR_OniGokko_Hands-on
-Tech-Circle VRハンズオンUnityちゃんを捕まえろ！のUnityプロジェクト
+# Unity_VR_Hands-on
+Tech-Circle Unity VRハンズオン UnityでVRアプリを作ってみよう！のUnityプロジェクト
 
-Tech-Circle VRハンズオンUnityちゃんを捕まえろ！（開発環境準備編）      
-http://qiita.com/decchi/private/09704066228660048ce9
+Unity VRハンズオン 事前準備（開発環境準備編） 
 
-Tech-Circle VRハンズオンUnityちゃんを捕まえろ！（Unity プロジェクト準備編）
-http://qiita.com/decchi/private/6c73f892c92c32656018
+http://qiita.com/decchi/private/2e80c643917851bd3269
+
+Unity VRハンズオン 事前準備（Unity プロジェクト準備編）
+
+http://qiita.com/decchi/private/9f902c9a1c88a64cbd06
