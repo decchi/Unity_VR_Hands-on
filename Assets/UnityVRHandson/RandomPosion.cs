@@ -15,8 +15,8 @@ public class RandomPosion : MonoBehaviour {
 
     void OnCollisionEnter(Collision collision)
     {
-        float x = Random.Range(-10, 10);
-        float z = Random.Range(-10, 10);
+        float x = Random.Range(-5, 5);
+        float z = Random.Range(-5, 5);
         pos.transform.position = new Vector3(x, 0.5f, z);
     }
 }
